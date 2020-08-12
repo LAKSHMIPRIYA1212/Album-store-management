@@ -1,0 +1,7 @@
+Customer ID: 1003
+Category: novels
+Book Name: Ramayana
+Book ID: N202
+Book Copies: 5
+Price: 100
+Total: 500

@@ -1,0 +1,6 @@
+Customer ID: 1007
+Category: novels
+Book Name: rama
+Book ID: N201
+Book Copies: 2
+Total: 600

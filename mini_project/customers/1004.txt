@@ -1,0 +1,7 @@
+Customer ID: 1004
+Category: education
+Book Name: c Language
+Book ID: E104
+Book Copies: 3
+Price: 200
+Total: 600

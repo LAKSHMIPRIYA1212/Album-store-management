@@ -1,0 +1,5 @@
+Album Name: One Piece
+Edition: 1000th Ed
+Album ID: 003
+Publisher: Japanese uncle
+Category: Fiction

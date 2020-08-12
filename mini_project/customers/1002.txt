@@ -1,0 +1,7 @@
+Customer ID: 1002
+Category: novels
+Book Name: Mahabharatam
+Book ID: N203
+Book Copies: 4
+Price: 300
+Total: 1200

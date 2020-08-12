@@ -1,0 +1,5 @@
+Album Name: To Kill a Mockingbird
+Edition: 1st Ed
+Album ID: F001
+Publisher: Harper Lee
+Category: Fiction

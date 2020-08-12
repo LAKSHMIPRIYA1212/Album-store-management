@@ -1,0 +1,7 @@
+Customer ID: 1001
+Category: fiction
+Book Name: One Piece
+Book ID: F003
+Book Copies: 3
+Price: 300
+Total: 900

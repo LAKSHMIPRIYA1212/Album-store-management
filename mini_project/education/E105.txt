@@ -1,0 +1,5 @@
+Album Name: C++ language
+Edition: 1979
+Album ID: 105
+Publisher: Bjarne Stroustrup
+Category: Education

@@ -1,0 +1,5 @@
+Album Name: Java
+Edition: 1995
+Album ID: 103
+Publisher: James Gosling
+Category: Education

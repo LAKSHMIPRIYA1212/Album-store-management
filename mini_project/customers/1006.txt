@@ -1,0 +1,6 @@
+Customer ID: 1006
+Category: education
+Book Name: Science !0th
+Book ID: E106
+Book Copies: 10
+Total: 3000

@@ -1,0 +1,5 @@
+Album Name: Python
+Edition: 1980
+Album ID: 102
+Publisher: Guido van Rossum
+Category: Education

@@ -1,0 +1,6 @@
+Customer ID: 1005
+Category: education
+Book Name: Google
+Book ID: E101
+Book Copies: 2
+Total: 600
